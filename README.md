@@ -56,10 +56,13 @@ The dataset contains user and ad-related features, such as:
 4. **Model Evaluation**  
    - Accuracy, Precision, Recall, F1-Score  
    - ROC-AUC curve  
-   - Confusion Matrix  
+   - Confusion Matrix
 
 
 🔧 Installation
  Prerequisites
  Install required libraries using:
  pip install pandas numpy matplotlib seaborn scikit-learn 
+
+
+ ## 🚀 Getting Started
